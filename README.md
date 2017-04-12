@@ -1,3 +1,3 @@
 # portfolio
 shadmanahmed.info
-Check out shadmanahmed.info for a complete look of the application.
+Check out www.shadmanahmed.info for a complete look of the application.
