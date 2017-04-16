@@ -4,7 +4,7 @@
 
         // PRE LOADER
         $(window).load(function(){
-          $('.preloader').fadeOut(1000); // set duration in brackets    
+          $('.preloader').fadeOut(1000); // set duration in brackets
         });
 
 
@@ -15,11 +15,17 @@
 
 
         // jquery backstretch slideshow
+        // $("#home").backstretch([
+        //   "images/home-bg-slideshow-image1.jpg",
+        //   "images/home-bg-slideshow-image2.jpg"
+        //   ], {duration: 2000, fade: 750});
+
+        // jquery backstretch slideshow
         $("#home").backstretch([
           "images/home-bg-slideshow-image1.jpg",
           "images/home-bg-slideshow-image2.jpg"
-          ], {duration: 2000, fade: 750});
-        
+        ], {duration: 3000, fade: 750});
+
 
         // smoothscroll js
         $(function() {
@@ -30,7 +36,7 @@
             }, 1000);
             event.preventDefault();
           });
-        });  
+        });
 
 
         // WOW Animation js
