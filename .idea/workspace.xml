@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e094d947-2da8-456f-a7ef-95a5252ade45" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="e094d947-2da8-456f-a7ef-95a5252ade45" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -97,23 +94,23 @@
                 <element signature="e#8067#8073#0" expanded="true" />
                 <element signature="e#8073#8079#0" expanded="true" />
                 <element signature="e#8079#8085#0" expanded="true" />
-                <element signature="e#8191#8197#0" expanded="true" />
-                <element signature="e#8197#8203#0" expanded="true" />
-                <element signature="e#8203#8209#0" expanded="true" />
-                <element signature="e#8209#8215#0" expanded="true" />
-                <element signature="e#8215#8221#0" expanded="true" />
-                <element signature="e#8221#8227#0" expanded="true" />
-                <element signature="e#8227#8233#0" expanded="true" />
-                <element signature="e#8233#8239#0" expanded="true" />
-                <element signature="e#8239#8245#0" expanded="true" />
-                <element signature="e#8245#8251#0" expanded="true" />
-                <element signature="e#8251#8257#0" expanded="true" />
-                <element signature="e#8257#8263#0" expanded="true" />
-                <element signature="e#8263#8269#0" expanded="true" />
-                <element signature="e#8393#8399#0" expanded="true" />
-                <element signature="e#8399#8405#0" expanded="true" />
-                <element signature="e#8405#8411#0" expanded="true" />
-                <element signature="e#8411#8417#0" expanded="true" />
+                <element signature="e#8195#8201#0" expanded="true" />
+                <element signature="e#8201#8207#0" expanded="true" />
+                <element signature="e#8207#8213#0" expanded="true" />
+                <element signature="e#8213#8219#0" expanded="true" />
+                <element signature="e#8219#8225#0" expanded="true" />
+                <element signature="e#8225#8231#0" expanded="true" />
+                <element signature="e#8231#8237#0" expanded="true" />
+                <element signature="e#8237#8243#0" expanded="true" />
+                <element signature="e#8243#8249#0" expanded="true" />
+                <element signature="e#8249#8255#0" expanded="true" />
+                <element signature="e#8255#8261#0" expanded="true" />
+                <element signature="e#8261#8267#0" expanded="true" />
+                <element signature="e#8267#8273#0" expanded="true" />
+                <element signature="e#8397#8403#0" expanded="true" />
+                <element signature="e#8403#8409#0" expanded="true" />
+                <element signature="e#8409#8415#0" expanded="true" />
+                <element signature="e#8415#8421#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -333,23 +330,23 @@
             <element signature="e#8067#8073#0" expanded="true" />
             <element signature="e#8073#8079#0" expanded="true" />
             <element signature="e#8079#8085#0" expanded="true" />
-            <element signature="e#8191#8197#0" expanded="true" />
-            <element signature="e#8197#8203#0" expanded="true" />
-            <element signature="e#8203#8209#0" expanded="true" />
-            <element signature="e#8209#8215#0" expanded="true" />
-            <element signature="e#8215#8221#0" expanded="true" />
-            <element signature="e#8221#8227#0" expanded="true" />
-            <element signature="e#8227#8233#0" expanded="true" />
-            <element signature="e#8233#8239#0" expanded="true" />
-            <element signature="e#8239#8245#0" expanded="true" />
-            <element signature="e#8245#8251#0" expanded="true" />
-            <element signature="e#8251#8257#0" expanded="true" />
-            <element signature="e#8257#8263#0" expanded="true" />
-            <element signature="e#8263#8269#0" expanded="true" />
-            <element signature="e#8393#8399#0" expanded="true" />
-            <element signature="e#8399#8405#0" expanded="true" />
-            <element signature="e#8405#8411#0" expanded="true" />
-            <element signature="e#8411#8417#0" expanded="true" />
+            <element signature="e#8195#8201#0" expanded="true" />
+            <element signature="e#8201#8207#0" expanded="true" />
+            <element signature="e#8207#8213#0" expanded="true" />
+            <element signature="e#8213#8219#0" expanded="true" />
+            <element signature="e#8219#8225#0" expanded="true" />
+            <element signature="e#8225#8231#0" expanded="true" />
+            <element signature="e#8231#8237#0" expanded="true" />
+            <element signature="e#8237#8243#0" expanded="true" />
+            <element signature="e#8243#8249#0" expanded="true" />
+            <element signature="e#8249#8255#0" expanded="true" />
+            <element signature="e#8255#8261#0" expanded="true" />
+            <element signature="e#8261#8267#0" expanded="true" />
+            <element signature="e#8267#8273#0" expanded="true" />
+            <element signature="e#8397#8403#0" expanded="true" />
+            <element signature="e#8403#8409#0" expanded="true" />
+            <element signature="e#8409#8415#0" expanded="true" />
+            <element signature="e#8415#8421#0" expanded="true" />
           </folding>
         </state>
       </provider>
